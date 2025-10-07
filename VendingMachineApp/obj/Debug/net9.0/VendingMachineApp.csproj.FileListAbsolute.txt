@@ -1,0 +1,15 @@
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/bin/Debug/net9.0/VendingMachineApp
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/bin/Debug/net9.0/VendingMachineApp.deps.json
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/bin/Debug/net9.0/VendingMachineApp.runtimeconfig.json
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/bin/Debug/net9.0/VendingMachineApp.dll
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/bin/Debug/net9.0/VendingMachineApp.pdb
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.AssemblyInfoInputs.cache
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.AssemblyInfo.cs
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.csproj.CoreCompileInputs.cache
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.sourcelink.json
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.dll
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/obj/Debug/net9.0/refint/VendingMachineApp.dll
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.pdb
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/obj/Debug/net9.0/VendingMachineApp.genruntimeconfig.cache
+/Users/milana/Desktop/lab1_oop/VendingMachineApp/obj/Debug/net9.0/ref/VendingMachineApp.dll
